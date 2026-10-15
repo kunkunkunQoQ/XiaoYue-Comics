@@ -8,9 +8,20 @@
 
 | 话数 | 标题 | 更新日期 |
 | --- | --- | --- |
+| 番外01 | [真正的诞生原因](comics/extra-001-real-origin/README.md) | 2026-10-16 |
 | 第01话 · 上 | [这蛋不太对](comics/001-this-egg-is-not-right/README.md) | 2026-10-15 |
 
-## 最新一话
+## 最新更新
+
+### 番外01：真正的诞生原因
+
+额度老是重置，用都用不完？于是，小跃就这么诞生了。一个关于 Tibo 的恶搞番外。
+
+![番外01：真正的诞生原因](comics/extra-001-real-origin/bonus.png)
+
+[独立阅读](comics/extra-001-real-origin/README.md) · [查看未压缩原图](comics/extra-001-real-origin/bonus.png)
+
+## 正篇
 
 ### 第01话：这蛋不太对（上）
 
