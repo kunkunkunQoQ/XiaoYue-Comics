@@ -8,10 +8,19 @@
 
 | 话数 | 标题 | 更新日期 |
 | --- | --- | --- |
+| 第01话 · 下 | [这蛋不太对](comics/001-this-egg-is-not-right/README.md#下篇) | 2026-10-16 |
 | 番外01 | [真正的诞生原因](comics/extra-001-real-origin/README.md) | 2026-10-16 |
-| 第01话 · 上 | [这蛋不太对](comics/001-this-egg-is-not-right/README.md) | 2026-10-15 |
+| 第01话 · 上 | [这蛋不太对](comics/001-this-egg-is-not-right/README.md#上篇) | 2026-10-16 |
 
 ## 最新更新
+
+### 第01话：这蛋不太对（下）
+
+![第01话下篇：小跃想补偿一顿早饭，却变出了巨蛋，还让整个厨房一起冷静。](comics/001-this-egg-is-not-right/part-2.png)
+
+[独立阅读](comics/001-this-egg-is-not-right/README.md#下篇) · [查看未压缩原图](comics/001-this-egg-is-not-right/part-2.png) · [从上篇开始](comics/001-this-egg-is-not-right/README.md#上篇)
+
+## 番外
 
 ### 番外01：真正的诞生原因
 
@@ -27,4 +36,4 @@
 
 ![第01话上篇：蛋生鸡，鸡生蛋，一位神秘少女破壳登场。](comics/001-this-egg-is-not-right/part-1.png)
 
-[独立阅读](comics/001-this-egg-is-not-right/README.md) · [查看未压缩原图](comics/001-this-egg-is-not-right/part-1.png)
+[独立阅读](comics/001-this-egg-is-not-right/README.md#上篇) · [查看未压缩原图](comics/001-this-egg-is-not-right/part-1.png) · [继续阅读下篇](comics/001-this-egg-is-not-right/README.md#下篇)
