@@ -11,6 +11,7 @@
 | 话数 | 标题 | 按顺序阅读 | 更新日期 |
 | --- | --- | --- | --- |
 | 第01话 | [这蛋不太对](comics/001-this-egg-is-not-right/README.md) | [上篇](comics/001-this-egg-is-not-right/README.md#上篇) → [下篇](comics/001-this-egg-is-not-right/README.md#下篇) | 2026-10-16 |
+| 第02话 | [退货退成批发](comics/002-return-to-wholesale/README.md) | [上篇](comics/002-return-to-wholesale/README.md#上篇) | 2026-10-16 |
 
 ## 番外
 
@@ -20,8 +21,8 @@
 
 ## 最新更新
 
-### 第01话：这蛋不太对（下）
+### 第02话：退货退成批发（上）
 
-![第01话下篇：小跃想补偿一顿早饭，却变出了巨蛋，还让整个厨房一起冷静。](comics/001-this-egg-is-not-right/part-2.png)
+![第02话上篇：想退掉附赠的少女，热心帮忙却让冰冻厨房里多出了四个小跃。](comics/002-return-to-wholesale/part-1.png)
 
-[独立阅读](comics/001-this-egg-is-not-right/README.md#下篇) · [查看未压缩原图](comics/001-this-egg-is-not-right/part-2.png) · [从上篇开始](comics/001-this-egg-is-not-right/README.md#上篇)
+[独立阅读](comics/002-return-to-wholesale/README.md#上篇) · [查看未压缩原图](comics/002-return-to-wholesale/part-1.png) · [← 第一话下篇](comics/001-this-egg-is-not-right/README.md#下篇)
