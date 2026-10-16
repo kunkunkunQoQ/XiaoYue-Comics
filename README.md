@@ -11,7 +11,7 @@
 | 话数 | 标题 | 按顺序阅读 | 更新日期 |
 | --- | --- | --- | --- |
 | 第01话 | [这蛋不太对](comics/001-this-egg-is-not-right/README.md) | [上篇](comics/001-this-egg-is-not-right/README.md#上篇) → [下篇](comics/001-this-egg-is-not-right/README.md#下篇) | 2026-10-16 |
-| 第02话 | [退货退成批发](comics/002-return-to-wholesale/README.md) | [上篇](comics/002-return-to-wholesale/README.md#上篇) → [下篇](comics/002-return-to-wholesale/README.md#下篇) | 2026-10-16 |
+| 第02话 | [退货退成批发](comics/002-return-to-wholesale/README.md) | [上篇](comics/002-return-to-wholesale/README.md#上篇) → [中篇](comics/002-return-to-wholesale/README.md#中篇) → [下篇](comics/002-return-to-wholesale/README.md#下篇) | 2026-10-16 |
 
 ## 番外
 
@@ -23,8 +23,8 @@
 
 ## 最新更新
 
-### 第02话：退货退成批发（下）
+### 第02话（下）：售后到家
 
 ![第02话下篇：小跃找来了原厂售后，退货却变成了一场意外的孵化。](comics/002-return-to-wholesale/part-2.png)
 
-[独立阅读](comics/002-return-to-wholesale/README.md#下篇) · [查看未压缩原图](comics/002-return-to-wholesale/part-2.png) · [← 第二话上篇](comics/002-return-to-wholesale/README.md#上篇)
+[独立阅读](comics/002-return-to-wholesale/README.md#下篇) · [查看未压缩原图](comics/002-return-to-wholesale/part-2.png) · [← 第二话中篇](comics/002-return-to-wholesale/README.md#中篇)
