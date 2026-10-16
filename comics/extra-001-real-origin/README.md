@@ -1,11 +1,5 @@
-# 番外01：真正的诞生原因
+# 番外 Tibo：真正的诞生原因
 
-2026-10-16
+本篇阅读入口：[打开 Tibo](../extra-tibo-real-origin/README.md)。
 
-额度又重置了，可这周额度还没花完……就这样，在用不完的额度催促下，小跃诞生了！
-
-*一个关于 Tibo 的轻松恶搞番外。*
-
-![番外：真正的诞生原因](bonus.png)
-
-[查看未压缩原图](bonus.png) · [← 番外目录](../../README.md#番外) · [从第一话开始](../001-this-egg-is-not-right/README.md#上篇)
+[查看未压缩原图](bonus.png) · [← 番外目录](../../README.md#番外)

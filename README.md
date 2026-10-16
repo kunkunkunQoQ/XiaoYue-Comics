@@ -15,14 +15,16 @@
 
 ## 番外
 
-| 编号 | 标题 | 更新日期 |
+各篇为独立剧集，可单独阅读。
+
+| 短码 | 标题 | 更新日期 |
 | --- | --- | --- |
-| 番外01 | [真正的诞生原因](comics/extra-001-real-origin/README.md) | 2026-10-16 |
+| Tibo | [真正的诞生原因](comics/extra-tibo-real-origin/README.md) | 2026-10-16 |
 
 ## 最新更新
 
-### 第02话：退货退成批发（上）
+### 番外 Tibo：真正的诞生原因
 
-![第02话上篇：想退掉附赠的少女，热心帮忙却让冰冻厨房里多出了四个小跃。](comics/002-return-to-wholesale/part-1.png)
+![番外 Tibo：这周额度还没花完，小跃却在额度重置的催促下诞生了。](comics/extra-tibo-real-origin/Tibo.png)
 
-[独立阅读](comics/002-return-to-wholesale/README.md#上篇) · [查看未压缩原图](comics/002-return-to-wholesale/part-1.png) · [← 第一话下篇](comics/001-this-egg-is-not-right/README.md#下篇)
+[独立阅读](comics/extra-tibo-real-origin/README.md) · [查看未压缩原图](comics/extra-tibo-real-origin/Tibo.png) · [继续正篇：第二话上篇 →](comics/002-return-to-wholesale/README.md#上篇)
