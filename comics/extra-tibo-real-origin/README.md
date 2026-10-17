@@ -8,4 +8,4 @@
 
 ![番外 Tibo：真正的诞生原因](Tibo.png)
 
-[查看未压缩原图](Tibo.png) · [← 番外目录](../../README.md#番外) · [从第一话开始](../001-this-egg-is-not-right/README.md#上篇)
+[查看未压缩原图](Tibo.png) · [← 番外目录](../../series/xiaoyue-daily/README.md#番外) · [从第一话开始](../../series/xiaoyue-daily/chapters/001-this-egg-is-not-right/README.md#上篇)

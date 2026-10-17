@@ -1,31 +1,27 @@
-# 小跃的奇妙日常
+# 看板娘漫画合集
 
-一只从鸡蛋里蹦出来的神秘少女，以及她引发的一系列离谱故事。
+同一位看板娘，不同的系列与故事。各系列的正篇和衍生番外收在一起，可以从喜欢的系列开始阅读。
 
-现代魔法少女的荒诞搞笑连载。她很想帮忙，事情往往从此开始失控。
+[浏览全部系列](series/README.md) · [从《小跃的奇妙日常》第一话开始](series/xiaoyue-daily/chapters/001-this-egg-is-not-right/README.md#上篇)
 
-从鸡蛋开始：[第一话上篇](comics/001-this-egg-is-not-right/README.md#上篇) · [最新更新](#最新更新) · [番外目录](#番外)
+## 系列
 
-## 正篇连载
-
-| 话数 | 标题 | 按顺序阅读 | 更新日期 |
-| --- | --- | --- | --- |
-| 第01话 | [这蛋不太对](comics/001-this-egg-is-not-right/README.md) | [上篇](comics/001-this-egg-is-not-right/README.md#上篇) → [下篇](comics/001-this-egg-is-not-right/README.md#下篇) | 2026-10-16 |
-| 第02话 | [退货退成批发](comics/002-return-to-wholesale/README.md) | [上篇](comics/002-return-to-wholesale/README.md#上篇) → [中篇](comics/002-return-to-wholesale/README.md#中篇) → [下篇](comics/002-return-to-wholesale/README.md#下篇) | 2026-10-16 |
-| 第03话 | [先别帮忙](comics/003-please-stop-helping/README.md) | [上篇](comics/003-please-stop-helping/README.md#上篇) → [中篇](comics/003-please-stop-helping/README.md#中篇) → [下篇](comics/003-please-stop-helping/README.md#下篇) | 2026-10-16 |
-
-## 番外
-
-各篇为独立剧集，可单独阅读。
-
-| 短码 | 标题 | 更新日期 |
+| 系列 | 简介 | 阅读入口 |
 | --- | --- | --- |
-| Tibo | [真正的诞生原因](comics/extra-tibo-real-origin/README.md) | 2026-10-16 |
+| [小跃的奇妙日常](series/xiaoyue-daily/README.md) | 现代魔法少女的荒诞搞笑日常，热心帮忙总会把事情越弄越大。 | [3话正篇与Tibo番外](series/xiaoyue-daily/README.md) |
 
 ## 最新更新
 
-### 第03话：先别帮忙
+### 《小跃的奇妙日常》第03话：先别帮忙
 
-![第03话上篇：巨大金色小跃破壳登场，认真把头上的熟蛋发夹当成了早饭。](comics/003-please-stop-helping/part-1.png)
+![第03话上篇：金色小跃破壳顶塌房间，却一本正经地把熟蛋发夹当成早饭。](series/xiaoyue-daily/chapters/003-please-stop-helping/part-1.png)
 
-[从上篇开始阅读 →](comics/003-please-stop-helping/README.md#上篇) · [中篇](comics/003-please-stop-helping/README.md#中篇) · [下篇](comics/003-please-stop-helping/README.md#下篇) · [查看未压缩原图](comics/003-please-stop-helping/part-1.png)
+[从上篇开始 →](series/xiaoyue-daily/chapters/003-please-stop-helping/README.md#上篇) · [中篇](series/xiaoyue-daily/chapters/003-please-stop-helping/README.md#中篇) · [下篇](series/xiaoyue-daily/chapters/003-please-stop-helping/README.md#下篇) · [查看未压缩原图](series/xiaoyue-daily/chapters/003-please-stop-helping/part-1.png)
+
+## 正篇连载
+
+[《小跃的奇妙日常》正篇目录 →](series/xiaoyue-daily/README.md#正篇连载)
+
+## 番外
+
+[《小跃的奇妙日常》独立番外目录 →](series/xiaoyue-daily/README.md#番外) · [Tibo：真正的诞生原因](series/xiaoyue-daily/extras/tibo-real-origin/README.md)

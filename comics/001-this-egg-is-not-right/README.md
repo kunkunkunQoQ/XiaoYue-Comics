@@ -1,6 +1,6 @@
 # 第01话：这蛋不太对
 
-[上篇](#上篇) → [下篇](#下篇) · [← 正篇目录](../../README.md#正篇连载)
+[上篇](#上篇) → [下篇](#下篇) · [← 正篇目录](../../series/xiaoyue-daily/README.md#正篇连载)
 
 ## 上篇
 
@@ -16,4 +16,4 @@
 
 ![第01话下篇：小跃想补偿一顿早饭，却变出了巨蛋，还让整个厨房一起冷静。](part-2.png)
 
-[查看未压缩原图](part-2.png) · [↑ 返回上篇](#上篇) · [下一话：退货退成批发 →](../002-return-to-wholesale/README.md#上篇) · [← 正篇目录](../../README.md#正篇连载)
+[查看未压缩原图](part-2.png) · [↑ 返回上篇](#上篇) · [下一话：退货退成批发 →](../../series/xiaoyue-daily/chapters/002-return-to-wholesale/README.md#上篇) · [← 正篇目录](../../series/xiaoyue-daily/README.md#正篇连载)
