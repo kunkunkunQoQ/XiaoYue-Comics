@@ -24,11 +24,12 @@
 | --- | --- | --- |
 | Tibo | [真正的诞生原因](extras/tibo-real-origin/README.md) | 2026-10-16 |
 | Fab | [小跃工厂（无字番外）](extras/fab-xiaoyue-factory/README.md) | 2026-10-19 |
+| Mix | [只是加了一点点我而已（2页）](extras/mix-a-little-bit-of-me/README.md#第1页) | 2026-10-20 |
 
 ## 最新更新
 
-### 无字番外 Fab：小跃工厂
+### 番外 Mix：只是加了一点点我而已
 
-![番外 Fab：小跃工厂，无字漫画](extras/fab-xiaoyue-factory/Fab.png)
+![番外 Mix：只是加了一点点我而已，第1页](extras/mix-a-little-bit-of-me/Mix-p01.png)
 
-[阅读番外 Fab →](extras/fab-xiaoyue-factory/README.md) · [查看未压缩原图](extras/fab-xiaoyue-factory/Fab.png) · [最新正篇：第03话](chapters/003-please-stop-helping/README.md#上篇)
+[阅读番外 Mix →](extras/mix-a-little-bit-of-me/README.md#第1页) · [第2页](extras/mix-a-little-bit-of-me/README.md#第2页) · [查看未压缩原图](extras/mix-a-little-bit-of-me/Mix-p01.png) · [最新正篇：第03话](chapters/003-please-stop-helping/README.md#上篇)
