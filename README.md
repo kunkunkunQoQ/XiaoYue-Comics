@@ -8,7 +8,7 @@
 [![Status](https://img.shields.io/badge/连载状态-连载中-brightgreen.svg)](series/xiaoyue-daily/README.md)
 [![Quality](https://img.shields.io/badge/画质-原生超清%20%7C%20无损原图-orange.svg)](#-最佳阅读体验指引)
 [![Type](https://img.shields.io/badge/类型-全彩条漫%20%7C%20荒诞搞笑%20%7C%20现代日常-blue.svg)](#-故事简介)
-[![Chapters](https://img.shields.io/badge/正篇-连载至第03话-purple.svg)](series/xiaoyue-daily/README.md#正篇连载)
+[![Chapters](https://img.shields.io/badge/正篇-连载至第04话-purple.svg)](series/xiaoyue-daily/README.md#正篇连载)
 [![Extras](https://img.shields.io/badge/独立番外-3篇已完结-pink.svg)](series/xiaoyue-daily/README.md#番外)
 
 **[🚀 立即开始阅读（第01话上篇）](series/xiaoyue-daily/chapters/001-this-egg-is-not-right/README.md#上篇)** · **[🔥 最新更新直达](#-最新更新)** · **[📖 正篇连载目录](#-正篇连载目录)** · **[🎉 独立番外目录](#-独立番外目录)** · **[🎭 登场角色](#-主要角色介绍)**
@@ -34,17 +34,17 @@
 
 ## 🔥 最新更新
 
-### 独立番外 Mix：《只是加了一点点我而已》（全2页）
+### 第04话：《这家还得孵》（上·中·下全3篇）
 
-> 给小跃设计新日常服装时，负责监工的 GPT 拟人龙娘悄悄加入了“一点点”自己的私货……
+> 金色小跃终于变小了。众人拿大残壳搭了个避风棚，母鸡却把新屋顶当成了待孵的蛋……
 
 <div align="center">
 
-![番外 Mix：只是加了一点点我而已，第1页](series/xiaoyue-daily/extras/mix-a-little-bit-of-me/Mix-p01.png)
+![第04话上篇：这家还得孵](series/xiaoyue-daily/chapters/004-this-home-needs-hatching/part-1.png)
 
-**[📖 立即阅读番外 Mix（第1页）](series/xiaoyue-daily/extras/mix-a-little-bit-of-me/README.md#第1页)** · **[翻到第2页](series/xiaoyue-daily/extras/mix-a-little-bit-of-me/README.md#第2页)** · **[🔍 查看未压缩原生超清原图](series/xiaoyue-daily/extras/mix-a-little-bit-of-me/Mix-p01.png)**
+**[📖 开始阅读第四话](series/xiaoyue-daily/chapters/004-this-home-needs-hatching/README.md#上篇)** · **[中篇](series/xiaoyue-daily/chapters/004-this-home-needs-hatching/README.md#中篇)** · **[下篇](series/xiaoyue-daily/chapters/004-this-home-needs-hatching/README.md#下篇)** · **[🔍 查看未压缩原图](series/xiaoyue-daily/chapters/004-this-home-needs-hatching/part-1.png)**
 
-*正篇最新话：[第03话 先别帮忙（上·中·下全3篇）](series/xiaoyue-daily/chapters/003-please-stop-helping/README.md#上篇)*
+*最近番外：[Mix：只是加了一点点我而已（全2页）](series/xiaoyue-daily/extras/mix-a-little-bit-of-me/README.md#第1页)*
 
 </div>
 
@@ -56,7 +56,7 @@
 | :--- | :--- | :--- |
 | **小跃 (Xiao Yue)** | 银白长卷双马尾、灰眼、黑耳机、黑X发夹、黑白日常服饰 | **女主角 / 迷之魔法少女**<br>从超市特价鸡蛋里破壳而出的少女。性格极度热心、自信，常常一本正经地做出离谱决策，做事“比较彻底”。本意是想帮忙，但总会把小事办成天大灾难。 |
 | **男主 (Roommate)** | 灰棕短发、圆眼镜、圆脸、常服长裤 | **男主角 / 苦逼房东 & 蛋壳饲养员**<br>只想安安静静吃个早饭的普通人。被迫接受小跃作为房客，遭遇巨蛋挤压、全屋结冰、拆迁级塌房等无数次事故。头顶白盘抱膝已成为招牌自保动作。 |
-| **金色小跃 (Golden Xiao Yue)** | 蜂蜜金双马尾、琥珀大眼、熟鸡蛋发夹、蛋壳连身衣、赤足 | **正篇长期常驻 / 原厂售后**<br>从那枚大到离谱的巨蛋中破壳登场，初次现身直接顶塌了厨房屋顶。外表呆萌，性格纯真迟钝（非常傻）。头顶大块残壳，总是认真地执行各种神奇操作。 |
+| **金色小跃 (Golden Xiao Yue)** | 蜂蜜金双马尾、琥珀大眼、熟鸡蛋发夹、蛋壳连身衣、赤足 | **正篇长期常驻**<br>从那枚大到离谱的巨蛋中破壳登场，初次现身直接顶塌了厨房屋顶。第四话缩到日常大小，脱下的大块残壳成了临时屋顶。性格纯真迟钝（非常傻），总是认真地执行各种神奇操作。 |
 | **GPT 拟人龙娘 (Dragon Girl)** | 白淡紫长发、紫瞳、浅色节角、尖耳、龙翼与白鳞龙尾 | **特别客串（非作者原创角色） / 监工兼服装设计**<br>在独立番外《小跃工厂》与《只是加了一点点我而已》中客串登场。外表高冷但经常被小跃的离谱操作带偏节奏，负责吐槽与收拾残局。<br>*注：GPT娘为非作者原创形象，属于番外特别客串。* |
 
 ---
@@ -70,7 +70,7 @@
 | **第01话** | **这蛋不太对** | 煎蛋破壳出现神秘美少女？单位漏算变出巨蛋，全屋冰冻连火苗都结冰了！ | [上篇](series/xiaoyue-daily/chapters/001-this-egg-is-not-right/README.md#上篇) → [下篇](series/xiaoyue-daily/chapters/001-this-egg-is-not-right/README.md#下篇) | 2部分 · 原生超清 | 2026-10-16 |
 | **第02话** | **退货退成批发** | 厨房成了冷库怎么办？翻开魔法说明书申请退货换新，结果法阵连发，退货退成了超级大批发！ | [上篇](series/xiaoyue-daily/chapters/002-return-to-wholesale/README.md#上篇) → [中篇](series/xiaoyue-daily/chapters/002-return-to-wholesale/README.md#中篇) → [下篇](series/xiaoyue-daily/chapters/002-return-to-wholesale/README.md#下篇) | 3部分 · 售后到家 | 2026-10-16 |
 | **第03话** | **先别帮忙** | 巨大金色小跃破壳顶翻屋顶！熟蛋发夹当慰问品？低头道歉却把所有人扣进了壳里…… | [上篇](series/xiaoyue-daily/chapters/003-please-stop-helping/README.md#上篇) → [中篇](series/xiaoyue-daily/chapters/003-please-stop-helping/README.md#中篇) → [下篇](series/xiaoyue-daily/chapters/003-please-stop-helping/README.md#下篇) | 3部分 · 露天厨房 | 2026-10-16 |
-| **第04话** | *筹备制作中* | 巨大喷嚏之后的缩小术究竟如何生效？露天厨房何去何从？敬请期待！ | *即将更新* | — | — |
+| **第04话** | **这家还得孵** | 人变小了，家还塌着！大残壳搭成避风棚，母鸡却来孵屋，还送来了一份意想不到的早饭…… | [上篇](series/xiaoyue-daily/chapters/004-this-home-needs-hatching/README.md#上篇) → [中篇](series/xiaoyue-daily/chapters/004-this-home-needs-hatching/README.md#中篇) → [下篇](series/xiaoyue-daily/chapters/004-this-home-needs-hatching/README.md#下篇) | 全3篇 · 未压缩原图 | 2026-10-26 |
 
 ---
 
@@ -113,7 +113,8 @@ XiaoYue-Comics/
 │       ├── chapters/                          # 正篇连载章节
 │       │   ├── 001-this-egg-is-not-right/     # 第01话：这蛋不太对（上、下）
 │       │   ├── 002-return-to-wholesale/       # 第02话：退货退成批发（上、中、下）
-│       │   └── 003-please-stop-helping/       # 第03话：先别帮忙（上、中、下）
+│       │   ├── 003-please-stop-helping/       # 第03话：先别帮忙（上、中、下）
+│       │   └── 004-this-home-needs-hatching/  # 第04话：这家还得孵（上、中、下）
 │       └── extras/                            # 独立番外剧集
 │           ├── tibo-real-origin/              # 番外 Tibo：真正的诞生原因
 │           ├── fab-xiaoyue-factory/           # 番外 Fab：小跃工厂（无字小品）

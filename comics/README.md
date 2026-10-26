@@ -12,6 +12,7 @@
 
 * [🍳 小跃的奇妙日常：完整连载主页](../series/xiaoyue-daily/README.md)
 * [📖 从第01话上篇开始阅读](../series/xiaoyue-daily/chapters/001-this-egg-is-not-right/README.md#上篇)
+* [📖 最新正篇：第04话 这家还得孵（上·中·下）](../series/xiaoyue-daily/chapters/004-this-home-needs-hatching/README.md#上篇)
 * [🎉 番外 Tibo：真正的诞生原因](../series/xiaoyue-daily/extras/tibo-real-origin/README.md)
 * [🎉 番外 Fab：小跃工厂（无字番外）](../series/xiaoyue-daily/extras/fab-xiaoyue-factory/README.md)
 * [🎉 番外 Mix：只是加了一点点我而已（双页）](../series/xiaoyue-daily/extras/mix-a-little-bit-of-me/README.md#第1页)

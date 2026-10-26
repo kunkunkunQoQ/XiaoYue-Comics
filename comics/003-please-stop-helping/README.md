@@ -1,6 +1,6 @@
 # 第03话：先别帮忙
 
-[上篇](#上篇) → [中篇](#中篇) → [下篇](#下篇) · [← 第二话下篇](../../series/xiaoyue-daily/chapters/002-return-to-wholesale/README.md#下篇) · [正篇目录](../../series/xiaoyue-daily/README.md#正篇连载)
+[上篇](#上篇) → [中篇](#中篇) → [下篇](#下篇) · [← 第二话下篇](../../series/xiaoyue-daily/chapters/002-return-to-wholesale/README.md#下篇) · [正篇目录](../../series/xiaoyue-daily/README.md#正篇连载) · [第四话上篇 →](../../series/xiaoyue-daily/chapters/004-this-home-needs-hatching/README.md#上篇)
 
 ## 上篇
 
@@ -24,4 +24,4 @@
 
 ![第03话下篇：提壳救人之后，缩小术刚发动，巨大喷嚏却正要爆发。](part-3.png)
 
-[查看未压缩原图](part-3.png) · [↑ 返回中篇](#中篇) · [← 正篇目录](../../series/xiaoyue-daily/README.md#正篇连载)
+[查看未压缩原图](part-3.png) · [↑ 返回中篇](#中篇) · [← 正篇目录](../../series/xiaoyue-daily/README.md#正篇连载) · [第四话上篇 →](../../series/xiaoyue-daily/chapters/004-this-home-needs-hatching/README.md#上篇)

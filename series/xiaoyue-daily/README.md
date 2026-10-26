@@ -34,13 +34,13 @@
          ▼
 ┌─────────────────┐                        ┌─────────────────────────┐
 │ 金色小跃 (售后)  │                        │ GPT拟人龙娘 (番外特别客串)│
-│  超大体型·呆萌纯真 │                        │ 非原创角色·吐槽役监工   │
+│  巨蛋登场·呆萌纯真 │                        │ 非原创角色·吐槽役监工   │
 └─────────────────┘                        └─────────────────────────┘
 ```
 
 * **小跃 (Xiao Yue)**：从鸡蛋里破壳而出的银发双马尾少女，佩戴黑耳机与黑X发夹。行事果断但逻辑往往非常跳脱，以“做事比较彻底”自居。
 * **男主 (Roommate)**：现代厨房的主人。只想平安度过每一天，却不断被卷入各种拆家级事故，随身空盘成了专属防具。
-* **金色小跃 (Golden Xiao Yue)**：第三话正式登场的长期常驻角色。从巨蛋中破壳的原厂售后，体格巨大、赤足蛋壳装，神情呆萌纯真，性格傻得可爱。
+* **金色小跃 (Golden Xiao Yue)**：第三话正式登场的长期常驻角色，从巨蛋里破壳而出，初登场体格巨大，第四话缩到日常大小。保留熟蛋发夹、赤足蛋壳装和认真却慢半拍的神情。
 * **GPT 拟人龙娘 (Dragon Girl)**：独立番外中登场的特别客串角色（**非作者原创角色**），吐槽担当，虽然尽力维护秩序，但总是沦为受害者。
 
 ---
@@ -48,7 +48,7 @@
 ## 🗺️ 推荐阅读路线
 
 * **循序渐进（正篇路线）**：
-  `第01话：这蛋不太对` ➔ `第02话：退货退成批发` ➔ `第03话：先别帮忙` ➔ *(第04话 筹备中)*
+  `第01话：这蛋不太对` ➔ `第02话：退货退成批发` ➔ `第03话：先别帮忙` ➔ [第04话：这家还得孵](chapters/004-this-home-needs-hatching/README.md#上篇)
 * **随开随看（独立番外）**：
   各篇独立番外完全独立成篇，可随时穿插选读：
   * 想了解诞生背后的“算力内幕”？👉 [Tibo：真正的诞生原因](extras/tibo-real-origin/README.md)
@@ -56,6 +56,8 @@
   * 想看龙娘夹带私货设计新衣服？👉 [Mix：只是加了一点点我而已](extras/mix-a-little-bit-of-me/README.md#第1页)
 
 ---
+
+<a id="正篇连载"></a>
 
 ## 📚 正篇连载
 
@@ -66,9 +68,11 @@
 | **第01话** | **[这蛋不太对](chapters/001-this-egg-is-not-right/README.md)** | 蛋生少女登场！漏算单位造出顶穿屋顶的巨蛋，施法全屋冰冻连火苗都冻上了！ | [上篇](chapters/001-this-egg-is-not-right/README.md#上篇) → [下篇](chapters/001-this-egg-is-not-right/README.md#下篇) | 全2部分 · 完结 | 2026-10-16 |
 | **第02话** | **[退货退成批发](chapters/002-return-to-wholesale/README.md)** | 厨房冷库求助说明书，退货变重召，法阵连环触发，最终迎来巨型母鸡原厂售后！ | [上篇](chapters/002-return-to-wholesale/README.md#上篇) → [中篇](chapters/002-return-to-wholesale/README.md#中篇) → [下篇](chapters/002-return-to-wholesale/README.md#下篇) | 全3部分 · 完结 | 2026-10-16 |
 | **第03话** | **[先别帮忙](chapters/003-please-stop-helping/README.md)** | 超大金色小跃顶塌厨房屋顶！送熟蛋发夹当赔礼，深鞠躬却把大家全扣进了蛋壳里…… | [上篇](chapters/003-please-stop-helping/README.md#上篇) → [中篇](chapters/003-please-stop-helping/README.md#中篇) → [下篇](chapters/003-please-stop-helping/README.md#下篇) | 全3部分 · 完结 | 2026-10-16 |
-| **第04话** | **制作筹备中** | 巨大的喷嚏即将爆发，缩小术能否顺利完成？众人能否脱离困境？ | *敬请期待* | 连载准备中 | — |
+| **第04话** | **[这家还得孵](chapters/004-this-home-needs-hatching/README.md)** | 金色小跃缩小成功，六人用大残壳搭棚，母鸡却把屋顶当成了待孵的蛋…… | [上篇](chapters/004-this-home-needs-hatching/README.md#上篇) → [中篇](chapters/004-this-home-needs-hatching/README.md#中篇) → [下篇](chapters/004-this-home-needs-hatching/README.md#下篇) | 全3部分 · 完结 | 2026-10-26 |
 
 ---
+
+<a id="番外"></a>
 
 ## 🎉 独立番外
 
@@ -82,13 +86,17 @@
 
 ---
 
+<a id="最新更新"></a>
+
 ## 🔥 最新更新
 
-### 独立番外 Mix：只是加了一点点我而已
+### 第04话：这家还得孵
 
-![番外 Mix：只是加了一点点我而已，第1页](extras/mix-a-little-bit-of-me/Mix-p01.png)
+![第04话上篇：这家还得孵](chapters/004-this-home-needs-hatching/part-1.png)
 
-**[📖 在线阅读番外 Mix（第1页）](extras/mix-a-little-bit-of-me/README.md#第1页)** · **[翻到第2页](extras/mix-a-little-bit-of-me/README.md#第2页)** · **[🔍 查看未压缩超清原图](extras/mix-a-little-bit-of-me/Mix-p01.png)** · **[正篇最新：第03话](chapters/003-please-stop-helping/README.md#上篇)**
+**[📖 在线阅读第四话](chapters/004-this-home-needs-hatching/README.md#上篇)** · **[中篇](chapters/004-this-home-needs-hatching/README.md#中篇)** · **[下篇](chapters/004-this-home-needs-hatching/README.md#下篇)** · **[🔍 查看未压缩原图](chapters/004-this-home-needs-hatching/part-1.png)**
+
+最近番外：[Mix：只是加了一点点我而已（全2页）](extras/mix-a-little-bit-of-me/README.md#第1页)。
 
 ---
 

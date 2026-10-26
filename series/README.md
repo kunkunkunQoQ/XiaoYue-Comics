@@ -11,7 +11,7 @@
 
 | 系列名称 | 题材与世界观 | 连载规模 | 开始阅读入口 | 最新更新动态 | 连载状态 |
 | :--- | :--- | :---: | :---: | :---: | :---: |
-| **[小跃的奇妙日常](xiaoyue-daily/README.md)** | 现代魔法日常 · 荒诞搞笑 · 同居喜剧 | 3话正篇<br>3篇独立番外 | [🍳 从第01话开读](xiaoyue-daily/chapters/001-this-egg-is-not-right/README.md#上篇) | [番外 Mix：只是加了一点点我而已](xiaoyue-daily/extras/mix-a-little-bit-of-me/README.md#第1页) | 🟢 连载中 |
+| **[小跃的奇妙日常](xiaoyue-daily/README.md)** | 现代魔法日常 · 荒诞搞笑 · 同居喜剧 | 4话正篇<br>3篇独立番外 | [🍳 从第01话开读](xiaoyue-daily/chapters/001-this-egg-is-not-right/README.md#上篇) | [第04话：这家还得孵](xiaoyue-daily/chapters/004-this-home-needs-hatching/README.md#上篇) | 🟢 连载中 |
 | **更多新系列** | *新平行宇宙筹划中* | — | 敬请期待 | 新系列立项筹划中 | ⏳ 企划中 |
 
 ---
@@ -25,6 +25,7 @@
     * [第01话：这蛋不太对](xiaoyue-daily/chapters/001-this-egg-is-not-right/README.md#上篇)（破壳初登场 · 厨房结冰）
     * [第02话：退货退成批发](xiaoyue-daily/chapters/002-return-to-wholesale/README.md#上篇)（说明书误触 · 批发到家）
     * [第03话：先别帮忙](xiaoyue-daily/chapters/003-please-stop-helping/README.md#上篇)（金色巨化登场 · 露天厨房）
+    * [第04话：这家还得孵](xiaoyue-daily/chapters/004-this-home-needs-hatching/README.md#上篇)（缩小成功 · 母鸡孵屋）
   * **独立番外**：
     * [Tibo：真正的诞生原因](xiaoyue-daily/extras/tibo-real-origin/README.md)（恶搞脑洞 · 算力额度催生的小跃）
     * [Fab：小跃工厂](xiaoyue-daily/extras/fab-xiaoyue-factory/README.md)（全程无字 · 流水线把监工打包送走）
