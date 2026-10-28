@@ -54,6 +54,7 @@
   * 想了解诞生背后的“算力内幕”？👉 [Tibo：真正的诞生原因](extras/tibo-real-origin/README.md)
   * 想看全程无字的爆笑默剧？👉 [Fab：小跃工厂](extras/fab-xiaoyue-factory/README.md)
   * 想看龙娘夹带私货设计新衣服？👉 [Mix：只是加了一点点我而已](extras/mix-a-little-bit-of-me/README.md#第1页)
+  * 想看一块饼干如何引发长篇报告？👉 [Think：正在思考中……](extras/think-thinking-in-progress/README.md)
 
 ---
 
@@ -83,6 +84,7 @@
 | **Tibo** | **[真正的诞生原因](extras/tibo-real-origin/README.md)** | 算力额度要过期了怎么破？在不花完就浪费的紧迫催促下，小跃诞生了！ | [📖 点击开始阅读](extras/tibo-real-origin/README.md) | 单页恶搞 · 超清 | 2026-10-16 |
 | **Fab** | **[小跃工厂](extras/fab-xiaoyue-factory/README.md)** | 全程无字爆笑漫画！小跃在包装流水线热心帮忙，竟把严苛的监工龙娘封箱发走！ | [📖 点击开始阅读](extras/fab-xiaoyue-factory/README.md) | 单页无字小品 | 2026-10-19 |
 | **Mix** | **[只是加了一点点我而已](extras/mix-a-little-bit-of-me/README.md)** | 给小跃设计全新战斗/日常服装，龙娘设计师借机疯狂夹带龙角龙尾私货…… | [📖 第1页](extras/mix-a-little-bit-of-me/README.md#第1页) · [第2页](extras/mix-a-little-bit-of-me/README.md#第2页) | 全2页独立番外 | 2026-10-20 |
+| **Think** | **[正在思考中……](extras/think-thinking-in-progress/README.md)** | 龙娘忙着评估饼干的风险，小跃已经吃完，还把最后一口递到了她嘴边。 | [📖 点击开始阅读](extras/think-thinking-in-progress/README.md) | 单页六格 · 未压缩原图 | 2026-10-28 |
 
 ---
 
@@ -90,13 +92,13 @@
 
 ## 🔥 最新更新
 
-### 第04话：这家还得孵
+### 独立番外 Think：正在思考中……
 
-![第04话上篇：这家还得孵](chapters/004-this-home-needs-hatching/part-1.png)
+![番外Think：正在思考中……](extras/think-thinking-in-progress/Think.png)
 
-**[📖 在线阅读第四话](chapters/004-this-home-needs-hatching/README.md#上篇)** · **[中篇](chapters/004-this-home-needs-hatching/README.md#中篇)** · **[下篇](chapters/004-this-home-needs-hatching/README.md#下篇)** · **[🔍 查看未压缩原图](chapters/004-this-home-needs-hatching/part-1.png)**
+**[📖 阅读番外 Think](extras/think-thinking-in-progress/README.md)** · **[🔍 查看未压缩原图](extras/think-thinking-in-progress/Think.png)**
 
-最近番外：[Mix：只是加了一点点我而已（全2页）](extras/mix-a-little-bit-of-me/README.md#第1页)。
+正篇最新：[第04话：这家还得孵（上·中·下）](chapters/004-this-home-needs-hatching/README.md#上篇)。
 
 ---
 

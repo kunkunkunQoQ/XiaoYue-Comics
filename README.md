@@ -9,7 +9,7 @@
 [![Quality](https://img.shields.io/badge/画质-原生超清%20%7C%20无损原图-orange.svg)](#-最佳阅读体验指引)
 [![Type](https://img.shields.io/badge/类型-全彩条漫%20%7C%20荒诞搞笑%20%7C%20现代日常-blue.svg)](#-故事简介)
 [![Chapters](https://img.shields.io/badge/正篇-连载至第04话-purple.svg)](series/xiaoyue-daily/README.md#正篇连载)
-[![Extras](https://img.shields.io/badge/独立番外-3篇已完结-pink.svg)](series/xiaoyue-daily/README.md#番外)
+[![Extras](https://img.shields.io/badge/独立番外-4篇已完结-pink.svg)](series/xiaoyue-daily/README.md#番外)
 
 **[🚀 立即开始阅读（第01话上篇）](series/xiaoyue-daily/chapters/001-this-egg-is-not-right/README.md#上篇)** · **[🔥 最新更新直达](#-最新更新)** · **[📖 正篇连载目录](#-正篇连载目录)** · **[🎉 独立番外目录](#-独立番外目录)** · **[🎭 登场角色](#-主要角色介绍)**
 
@@ -34,17 +34,17 @@
 
 ## 🔥 最新更新
 
-### 第04话：《这家还得孵》（上·中·下全3篇）
+### 独立番外 Think：《正在思考中……》（单页六格）
 
-> 金色小跃终于变小了。众人拿大残壳搭了个避风棚，母鸡却把新屋顶当成了待孵的蛋……
+> 一块饼干让龙娘认真写起了报告，小跃倒是先把问题吃完了。
 
 <div align="center">
 
-![第04话上篇：这家还得孵](series/xiaoyue-daily/chapters/004-this-home-needs-hatching/part-1.png)
+![番外Think：正在思考中……](series/xiaoyue-daily/extras/think-thinking-in-progress/Think.png)
 
-**[📖 开始阅读第四话](series/xiaoyue-daily/chapters/004-this-home-needs-hatching/README.md#上篇)** · **[中篇](series/xiaoyue-daily/chapters/004-this-home-needs-hatching/README.md#中篇)** · **[下篇](series/xiaoyue-daily/chapters/004-this-home-needs-hatching/README.md#下篇)** · **[🔍 查看未压缩原图](series/xiaoyue-daily/chapters/004-this-home-needs-hatching/part-1.png)**
+**[📖 阅读番外 Think](series/xiaoyue-daily/extras/think-thinking-in-progress/README.md)** · **[🔍 查看未压缩原图](series/xiaoyue-daily/extras/think-thinking-in-progress/Think.png)**
 
-*最近番外：[Mix：只是加了一点点我而已（全2页）](series/xiaoyue-daily/extras/mix-a-little-bit-of-me/README.md#第1页)*
+*正篇最新：[第04话：这家还得孵（上·中·下）](series/xiaoyue-daily/chapters/004-this-home-needs-hatching/README.md#上篇)*
 
 </div>
 
@@ -57,7 +57,7 @@
 | **小跃 (Xiao Yue)** | 银白长卷双马尾、灰眼、黑耳机、黑X发夹、黑白日常服饰 | **女主角 / 迷之魔法少女**<br>从超市特价鸡蛋里破壳而出的少女。性格极度热心、自信，常常一本正经地做出离谱决策，做事“比较彻底”。本意是想帮忙，但总会把小事办成天大灾难。 |
 | **男主 (Roommate)** | 灰棕短发、圆眼镜、圆脸、常服长裤 | **男主角 / 苦逼房东 & 蛋壳饲养员**<br>只想安安静静吃个早饭的普通人。被迫接受小跃作为房客，遭遇巨蛋挤压、全屋结冰、拆迁级塌房等无数次事故。头顶白盘抱膝已成为招牌自保动作。 |
 | **金色小跃 (Golden Xiao Yue)** | 蜂蜜金双马尾、琥珀大眼、熟鸡蛋发夹、蛋壳连身衣、赤足 | **正篇长期常驻**<br>从那枚大到离谱的巨蛋中破壳登场，初次现身直接顶塌了厨房屋顶。第四话缩到日常大小，脱下的大块残壳成了临时屋顶。性格纯真迟钝（非常傻），总是认真地执行各种神奇操作。 |
-| **GPT 拟人龙娘 (Dragon Girl)** | 白淡紫长发、紫瞳、浅色节角、尖耳、龙翼与白鳞龙尾 | **特别客串（非作者原创角色） / 监工兼服装设计**<br>在独立番外《小跃工厂》与《只是加了一点点我而已》中客串登场。外表高冷但经常被小跃的离谱操作带偏节奏，负责吐槽与收拾残局。<br>*注：GPT娘为非作者原创形象，属于番外特别客串。* |
+| **GPT 拟人龙娘 (Dragon Girl)** | 白淡紫长发、紫瞳、浅色节角、尖耳、龙翼与白鳞龙尾 | **特别客串（非作者原创角色）**<br>在独立番外《小跃工厂》《只是加了一点点我而已》《正在思考中……》中客串登场。无论监工、设计新衣还是认真写报告，总会遇到小跃带来的意外。<br>*注：GPT娘为非作者原创形象，属于番外特别客串。* |
 
 ---
 
@@ -83,6 +83,7 @@
 | **Tibo** | **真正的诞生原因** | 额度又刷新了？在“用不完的算力额度”催促下，小跃真正的诞生内幕大揭秘！ | [📖 点击阅读](series/xiaoyue-daily/extras/tibo-real-origin/README.md) | 单页单集 | 2026-10-16 |
 | **Fab** | **小跃工厂** | **全程无字幽默番外**！小跃包装流水线热心帮倒忙，竟然把严厉的龙娘监工一起打包送走？！ | [📖 点击阅读](series/xiaoyue-daily/extras/fab-xiaoyue-factory/README.md) | 单页无字小品 | 2026-10-19 |
 | **Mix** | **只是加了一点点我而已** | 为小跃量身定制全新服装，然而某位龙娘设计师却暗戳戳夹带私货塞满了龙翼与尾巴…… | [📖 第1页](series/xiaoyue-daily/extras/mix-a-little-bit-of-me/README.md#第1页) · [第2页](series/xiaoyue-daily/extras/mix-a-little-bit-of-me/README.md#第2页) | 全2页独立番外 | 2026-10-20 |
+| **Think** | **正在思考中……** | 一块饼干引发长篇风险评估，报告还没写完，小跃已经吃完并反向投喂…… | [📖 点击阅读](series/xiaoyue-daily/extras/think-thinking-in-progress/README.md) | 单页六格 | 2026-10-28 |
 
 ---
 
@@ -118,7 +119,8 @@ XiaoYue-Comics/
 │       └── extras/                            # 独立番外剧集
 │           ├── tibo-real-origin/              # 番外 Tibo：真正的诞生原因
 │           ├── fab-xiaoyue-factory/           # 番外 Fab：小跃工厂（无字小品）
-│           └── mix-a-little-bit-of-me/        # 番外 Mix：只是加了一点点我而已（双页）
+│           ├── mix-a-little-bit-of-me/        # 番外 Mix：只是加了一点点我而已（双页）
+│           └── think-thinking-in-progress/   # 番外 Think：正在思考中……（六格）
 │
 └── comics/                                    # 🔗 历史兼容目录（永久保留，保障既有外链与原图URL不失效）
     ├── README.md                              # 兼容层说明与新路径指引

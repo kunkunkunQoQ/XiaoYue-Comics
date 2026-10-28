@@ -16,3 +16,4 @@
 * [🎉 番外 Tibo：真正的诞生原因](../series/xiaoyue-daily/extras/tibo-real-origin/README.md)
 * [🎉 番外 Fab：小跃工厂（无字番外）](../series/xiaoyue-daily/extras/fab-xiaoyue-factory/README.md)
 * [🎉 番外 Mix：只是加了一点点我而已（双页）](../series/xiaoyue-daily/extras/mix-a-little-bit-of-me/README.md#第1页)
+* [🎉 番外 Think：正在思考中……（六格）](../series/xiaoyue-daily/extras/think-thinking-in-progress/README.md)
